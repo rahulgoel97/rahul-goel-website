@@ -14,7 +14,7 @@ function App() {
           😁👋 Hi, I'm Rahul  
         </h1>
 
-       
+        <p className="main-page-sub-p"> This website is under development. </p>
         
          <p className="main-page-p"> Music 🎵 </p>
          <p className="main-page-p"> Software 👨🏽‍💻 </p>
