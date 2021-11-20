@@ -21,6 +21,7 @@
 }
 
 .greeting-text{
+  margin: 4vmin 3vmin;
   font-size: 10vh;
 }
 
@@ -32,6 +33,11 @@
   bottom: 0;
 }
 
+.navbar-style{
+    background-color: #181818 !important;
+    width: 100%;
+    margin-top: 0;   
+}
 
 
 .App-logo {
@@ -51,7 +57,6 @@
   display: flex;
   flex-direction: column;
   align-items: center;
-  justify-content: center;
   font-size: calc(10px + 2vmin);
   color: white;
 }
