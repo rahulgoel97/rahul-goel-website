@@ -9,19 +9,16 @@ function App() {
 
   return (
     <div className="App">
-      <header className="App-header">
-        <NavbarComponent />     
-        <h1 className="greeting-text">
-          😁👋 Hi, I'm Rahul  
-        </h1>
-        <p className="main-page-sub-p"> I'm a corporate strategy professional with interests in critical networks, web3 & XR. Excited by technology that can dramatically reduce cost and improve access. </p>
-        <p className="main-page-sub-p  "> This website is under development. </p>
-        
-         <Socials />
-
-
-       
-      </header>
+    
+        <NavbarComponent />    
+        <div className="home-contents"> 
+            <h1 className="greeting-text">
+             😁👋 Hi, I'm Rahul  
+           </h1>
+           <p className="main-page-sub-p"> I'm a corporate strategy professional with interests in critical networks, web3 & XR. Excited by technology that can dramatically reduce cost and improve access. </p>
+           <p className="main-page-sub-p  "> This website is under development. </p>
+        </div>     
+      <Socials />
 
     </div>
   );

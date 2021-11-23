@@ -1,5 +1,18 @@
 .App {
   text-align: center;
+  background-color: #121212;
+}
+
+.home-contents{
+  background-color:#121212;
+  position: absolute;
+  top: 30vh;
+  bottom: 50%;
+}
+
+.App-header{
+  display: flex;
+  align-items: center;
 }
 
 .main-page-p {
@@ -7,6 +20,8 @@
   color: white;
 
 }
+
+
 .main-page-p:hover {
   font-size: 3.5vh;
   color: white;
@@ -23,6 +38,7 @@
 .greeting-text{
   margin: 4vmin 3vmin;
   font-size: 10vh;
+  color: #383838;
 }
 
 .social-box{
