@@ -9,9 +9,9 @@ function Socials() {
       
       
       <p> 
-      <a href="https://github.com/rahulgoel97">		GitHub		</a>
-      <a href="https://bandcamp.com/rahulgoel">		Bandcamp		</a>
-      <a href="https://tinyurl.com/linkrahul">		LinkedIn		</a>
+      <a href="">GitHub</a>
+      <a href="">Bandcamp</a>
+      <a href="">LinkedIn</a>
       </p>
 
       
