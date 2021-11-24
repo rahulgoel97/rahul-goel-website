@@ -1,5 +1,5 @@
 import React from 'react';
-import { BrowserRouter, Route, Switch } from "react-router-dom";
+import { HashRouter, Route, Switch } from "react-router-dom";
 import logo from './logo.svg';
 import './App.css';
 import SocialMediaButtons from 'react-social-media-buttons';
@@ -15,7 +15,7 @@ function App() {
   return (
     <div className="App">
     
-        <BrowserRouter>
+        <HashRouter>
         <Switch>
             <Route path="/" exact component={Home} />
             <Route path="/rahul-goel-website" exact component={Home} />
@@ -24,7 +24,7 @@ function App() {
             <Route path="/pics" exact component={Pics}/>
             <Route path="/" render={()=>  <div className="notfound"> Yikes... 404 </div>}/>
         </Switch>
-        </BrowserRouter>
+        </HashRouter>
 
     </div>
   );
