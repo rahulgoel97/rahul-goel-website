@@ -18,6 +18,7 @@ function App() {
         <BrowserRouter>
         <Switch>
             <Route path="/" exact component={Home} />
+            <Route path="/rahul-goel-website" exact component={Home} />
             <Route path="/music" exact component={Music}/>
             <Route path="/projects" exact component={Projects}/>
             <Route path="/pics" exact component={Pics}/>
