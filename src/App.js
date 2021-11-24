@@ -1,24 +1,29 @@
 import React from 'react';
+import { BrowserRouter, Route, Switch } from "react-router-dom";
 import logo from './logo.svg';
 import './App.css';
 import SocialMediaButtons from 'react-social-media-buttons';
 import Socials from './components/Socials.js'
 import NavbarComponent from './components/NavbarComponent.js';
+import  Home  from "./Home";
+import  Music from "./Music";
+import  Projects from "./Projects";
+import  Pics from "./Pictures";
 
 function App() {
 
   return (
     <div className="App">
     
-        <NavbarComponent />    
-        <div className="home-contents"> 
-            <h1 className="greeting-text">
-             😁👋 Hi, I'm Rahul  
-           </h1>
-           <p className="main-page-sub-p"> I'm a corporate strategy professional with interests in critical networks, web3 & XR. Excited by technology that can dramatically reduce cost and improve access. </p>
-           <p className="main-page-sub-p  "> This website is under development. </p>
-        </div>     
-      <Socials />
+        <BrowserRouter>
+        <Switch>
+            <Route path="/" exact component={Home} />
+            <Route path="/music" exact component={Music}/>
+            <Route path="/projects" exact component={Projects}/>
+            <Route path="/pics" exact component={Pics}/>
+            <Route path="/" render={()=>  <div className="notfound"> Yikes... 404 </div>}/>
+        </Switch>
+        </BrowserRouter>
 
     </div>
   );
