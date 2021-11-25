@@ -20,8 +20,8 @@ function App() {
             <Route path="/" exact component={Home} />
             <Route path="/rahul-goel-website" exact component={Home} />
             <Route path="/music" exact component={Music}/>
-            <Route path="/rahul-goel-website/projects" exact component={Projects}/>
-            <Route path="/rahul-goel-website/pics" exact component={Pics}/>
+            <Route path="/projects" exact component={Projects}/>
+            <Route path="/pics" exact component={Pics}/>
             <Route path="/" render={()=>  <div className="notfound"> Yikes... 404 </div>}/>
         </Switch>
         </HashRouter>

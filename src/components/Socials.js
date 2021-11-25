@@ -50,14 +50,14 @@ function Socials() {
       <a href="mailto:rahulgol97@gmail.com">
       		<img 
       		src={iconemail}
-      		style={{width:'1.9rem',margin:'0.7rem'}}
+      		style={{width:'1.8rem',margin:'0.7rem'}}
       		/>
       </a>
 
        <a href="https://tinyurl.com/linkrahul">
        		<img 
       		src={iconlinkedin}
-      		style={{width:'2rem',margin:'0.5rem'}}
+      		style={{width:'1.9rem',margin:'0.5rem'}}
       		/>
       </a>  
     </div>
