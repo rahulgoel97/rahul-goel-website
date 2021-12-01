@@ -99,3 +99,24 @@
     transform: rotate(360deg);
   }
 }
+
+/* Desktop View for Project Cards*/
+@media (min-width: 1400px) {
+    
+
+   .project-card-grid{
+    display:flex;
+    flex-wrap: wrap;
+    flex: 1;
+}
+   .project-card{
+        background-color: white;
+        border-radius: 10px;
+        width: 50vmin;
+        height: 15vh;
+        margin: 2rem 2rem 2rem 2rem;
+        position: relative;
+    }
+
+
+}

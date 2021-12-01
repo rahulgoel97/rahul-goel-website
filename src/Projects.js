@@ -4,6 +4,7 @@ import './App.css';
 import SocialMediaButtons from 'react-social-media-buttons';
 import Socials from './components/Socials.js'
 import NavbarComponent from './components/NavbarComponent.js';
+import ProjectCard from './components/ProjectCard.js';
 
 function Projects() {
 
@@ -16,9 +17,16 @@ function Projects() {
              Projects 👨🏽‍💻
         </div>  
 
-        <p className="main-page-sub-p  "> Coming Soon! </p>
+        
+        <div className="project-card-grid">
+             <ProjectCard name="Test"/>
+             <ProjectCard name="Test"/>
+             <ProjectCard name="Test"/>
+             <ProjectCard name="Test"/>
+             <ProjectCard name="Test"/>    
+        </div>  
 
-      <Socials />
+        <Socials />
 
     </div>
   );
