@@ -5,6 +5,8 @@
 .StressCalcAppPage{
   text-align: center;
   background-color: #3dd2dc;
+  height: 110%;
+  margin-bottom: 0;
 }
 
 .home-contents{
@@ -43,6 +45,12 @@
 
 }
 
+.main-page-sub-p-stresscalc{
+   font-size: 6vmin;
+   color: #797979;
+   margin-top: -2rem !important;
+}
+
 .greeting-text{
   margin: 4vmin 3vmin;
   font-size: 10vh;
@@ -69,6 +77,18 @@
   color: #383838;
 }
 
+.page-title-stresscalc{
+    margin: 1vmin 1vmin;
+    font-size: 12vmin;
+    color: white;
+}
+
+.stresscalc-screenshots{
+   margin: 0.5rem;
+   width: 25vh;
+   border-radius: 15px;
+
+}
 
 .App-logo {
   height: 40vmin;
