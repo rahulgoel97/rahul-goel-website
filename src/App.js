@@ -9,6 +9,7 @@ import  Home  from "./Home";
 import  Music from "./Music";
 import  Projects from "./Projects";
 import  Pics from "./Pictures";
+import StressCalc from "./StressCalc";
 
 function App() {
 
@@ -22,8 +23,9 @@ function App() {
             <Route path="/music" exact component={Music}/>
             <Route path="/projects" exact component={Projects}/>
             <Route path="/pics" exact component={Pics}/>
+            <Route path="/stresscalc" exact component={StressCalc}/>
             <Route path="/" render={()=>  <div className="notfound"> Yikes... 404 </div>}/>
-        </Switch>
+       </Switch>
         </HashRouter>
 
     </div>

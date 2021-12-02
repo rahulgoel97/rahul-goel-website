@@ -5,6 +5,7 @@ import SocialMediaButtons from 'react-social-media-buttons';
 import Socials from './components/Socials.js'
 import NavbarComponent from './components/NavbarComponent.js';
 import ProjectCard from './components/ProjectCard.js';
+import { Link } from 'react-router-dom';
 
 function Projects() {
 
@@ -19,7 +20,7 @@ function Projects() {
 
         
         <div className="project-card-grid">
-             <ProjectCard name="Test"/>
+            <Link to="/StressCalc"> <ProjectCard name="StressCalc"/></Link>
              <ProjectCard name="Test"/>
              <ProjectCard name="Test"/>
              <ProjectCard name="Test"/>
