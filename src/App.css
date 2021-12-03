@@ -48,7 +48,14 @@
 .main-page-sub-p-stresscalc{
    font-size: 6vmin;
    color: #797979;
-   margin-top: -2rem !important;
+   margin-top: 0rem !important;
+}
+
+.stresscalc-logo-and-header{
+
+    display: inline-flex;
+    flex-direction: row;
+
 }
 
 .greeting-text{
@@ -81,12 +88,18 @@
     margin: 1vmin 1vmin;
     font-size: 12vmin;
     color: white;
+    font-weight: bold;
 }
 
 .stresscalc-screenshots{
    margin: 0.5rem;
    width: 25vh;
    border-radius: 15px;
+box-shadow: rgba(99, 99, 99, 0.5) 0px 2px 8px 0px;
+}
+
+.store-buttons{
+    margin: 1vmin;
 
 }
 
