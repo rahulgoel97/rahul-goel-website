@@ -19,6 +19,7 @@ function App() {
         <HashRouter basename={process.env.PUBLIC_URL}>
         <Switch>
             <Route path="/" exact component={Home} />
+            <Route path="/home" exact component={Home} />
             <Route path="/rahul-goel-website" exact component={Home} />
             <Route path="/music" exact component={Music}/>
             <Route path="/projects" exact component={Projects}/>

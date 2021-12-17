@@ -13,10 +13,12 @@ function Pics() {
         <NavbarComponent />  
 
         <div className="page-title"> 
-             Pics 👀
+             Metaverse  👀
         </div>   
 
-        <p className="main-page-sub-p  "> Coming Soon! </p>
+        <p className="main-page-sub-p  "> Coming Soon! I hope to showcase 3D models built in Blender and Unity here. 
+<br/><br/>
+I'm deeply excited by what virtual and augmented reality can do for our world, and I cannot help but think about how I can contribute to building it.</p>
 
       <Socials />
 

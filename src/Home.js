@@ -16,8 +16,9 @@ function Home() {
             <h1 className="greeting-text">
              😁👋 Hi, I'm Rahul  
            </h1>
-           <p className="main-page-sub-p"> I'm a corporate strategy professional with interests in critical networks, web3 & XR. Excited by technology that can dramatically reduce cost and improve access. </p>
-           <p className="main-page-sub-p  "> This website is under development. </p>
+           <p className="main-page-sub-p"> I'm a corporate strategy professional fascinated by emerging technology. I have  interests in critical networks, web3 & XR. I often think about how technology can dramatically reduce cost, improve access and forge  a path for self-actualization for everyone.</p>
+           <p className="main-page-sub-p  ">Every step of the way, to everyone around us, we should be asking the question, what are you building? What are you building directly, or helping other people to build, or teaching other people to build, or taking care of people who are building? (thx a16z)</p>
+           <p className="main-page-sub-p  "> After asking myself these questions, I taught myself how to code, built this website released an app, and still learning a lot about software, design, product, and yes, the metaverse :) </p>       
         </div>     
       <Socials />
 
