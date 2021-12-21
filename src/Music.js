@@ -15,6 +15,14 @@ function Music() {
          <div className="page-title"> 
              Music 🎵
         </div>   
+        <h2 className="music-subhead"> Mixes </h2>
+
+        <iframe className="soundcloud-embed" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/1130995420&color=%230066cc&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true">2Hr set</iframe>
+        <iframe className="soundcloud-embed" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/1133822788&color=%230066cc&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true">2Hr set</iframe>
+        <iframe className="soundcloud-embed" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/334374143&color=%230066cc&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true">2Hr set</iframe>
+
+
+        <h2 className="music-subhead"> Productions </h2>
 
         <iframe className="bandcamp-embed" src="https://bandcamp.com/EmbeddedPlayer/track=2360701398/size=large/bgcol=333333/linkcol=9a64ff/tracklist=false/transparent=true/" seamless><a href="https://bigother97.bandcamp.com/track/taal">Taal by bigOther</a></iframe>
           

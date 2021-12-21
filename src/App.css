@@ -70,12 +70,13 @@
   width: 100%;
   position: fixed;
   bottom: 0;
+
 }
 
 .navbar-style{
     background-color: #181818 !important;
     width: 100%;
-    margin-top: 0;   
+    margin-top: 0px;   
 }
 
 .page-title{
@@ -132,10 +133,21 @@ box-shadow: rgba(99, 99, 99, 0.5) 0px 2px 8px 0px;
   border: 0;
   width: 350px;
   height: 470px;
-  margin: 3px 3px 3px 3px;
+  margin: 4px 4px 4px 4px;
 }
 
+.soundcloud-embed{
+  width: 85%;
+  height: 166px;
+  margin: 4px 4px 4px 4px;
+}
 
+.music-subhead{
+  margin: 4vmin 3vmin;
+  font-size: 6vh;
+  color: #383838;
+
+}
 
 /* Desktop View for Project Cards*/
 @media (min-width: 1400px) {

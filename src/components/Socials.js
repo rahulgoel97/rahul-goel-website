@@ -15,6 +15,12 @@ import iconlinkedin from './linkedin-icon.png';
 function Socials() {
 
   return (
+    <div>
+    <br/>
+    <br/>
+    <br/>
+    <br/>
+    <br/>
     <div className="social-box">
       
       
@@ -60,6 +66,7 @@ function Socials() {
       		style={{width:'1.9rem',margin:'0.5rem'}}
       		/>
       </a>  
+    </div>
     </div>
   );
 }
