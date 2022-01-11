@@ -36,6 +36,10 @@ function StressCalc() {
         <a href="https://play.google.com/store/apps/details?id=com.goellabs.stresscalc&hl=en_US&gl=US"><img
             style={{height:'8vmin'}}
             src={googlestore}/></a>
+
+        <a href="https://www.producthunt.com/posts/stresscalc?utm_source=badge-featured&utm_medium=badge&utm_souce=badge-stresscalc">
+            <img src="https://api.producthunt.com/widgets/embed-image/v1/featured.svg?post_id=326328&theme=dark" alt="StressCalc - Minimal RPE calculator for lifters | Product Hunt" 
+            style={{height:'5.5svmin'}}/></a>
     
         </div>
 
