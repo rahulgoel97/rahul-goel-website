@@ -16,8 +16,10 @@ function Home() {
             <h1 className="greeting-text">
              😁👋 Hi, I'm Rahul  
            </h1>
-           <p className="main-page-sub-p"> I'm fascinated by emerging technology: critical networks, XR and web3. I often think about how technology can dramatically reduce cost, improve access and forge  a path for self-actualization for everyone.</p>
-           <p className="main-page-sub-p  ">Every step of the way, to everyone around us, we should be asking the question, what are you building? What are you building directly, or helping other people to build, or teaching other people to build, or taking care of people who are building? </p>
+           <p className="main-page-sub-p"> I'm a business strategist living in Chicago. I often think about how technology can dramatically reduce cost, improve access and forge  a path for self-actualization for everyone.</p>
+           <p className="main-page-sub-p  ">Interests: powerlifting, dance music, cooking</p>
+           <p className="main-page-sub-p  ">Aspiration: become a polymath</p>
+           <p className="main-page-sub-p  ">Building: apps to make my life easier & have some fun</p>
              
         </div>     
       <Socials />
