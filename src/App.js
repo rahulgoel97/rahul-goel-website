@@ -8,7 +8,8 @@ import NavbarComponent from './components/NavbarComponent.js';
 import  Home  from "./Home";
 import  Music from "./Music";
 import  Projects from "./Projects";
-import  Pics from "./Pictures";
+import  Pics from "./Metaverse";
+import  Ideas from "./Ideas";
 import StressCalc from "./StressCalc";
 
 function App() {
@@ -20,6 +21,7 @@ function App() {
         <Switch>
             <Route path="/" exact component={Home} />
             <Route path="/home" exact component={Home} />
+            <Route path="/ideas" exact component={Ideas} />
             <Route path="/rahul-goel-website" exact component={Home} />
             <Route path="/music" exact component={Music}/>
             <Route path="/projects" exact component={Projects}/>
