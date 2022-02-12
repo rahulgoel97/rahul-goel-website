@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/rahul-goel-website/static/css/main.b085301c.chunk.css",
+    "main.css": "/rahul-goel-website/static/css/main.f0a39fdf.chunk.css",
     "main.js": "/rahul-goel-website/static/js/main.b8b5aa18.chunk.js",
     "main.js.map": "/rahul-goel-website/static/js/main.b8b5aa18.chunk.js.map",
     "runtime-main.js": "/rahul-goel-website/static/js/runtime-main.8be47df5.js",
@@ -10,7 +10,7 @@
     "static/js/3.9d891527.chunk.js": "/rahul-goel-website/static/js/3.9d891527.chunk.js",
     "static/js/3.9d891527.chunk.js.map": "/rahul-goel-website/static/js/3.9d891527.chunk.js.map",
     "index.html": "/rahul-goel-website/index.html",
-    "static/css/main.b085301c.chunk.css.map": "/rahul-goel-website/static/css/main.b085301c.chunk.css.map",
+    "static/css/main.f0a39fdf.chunk.css.map": "/rahul-goel-website/static/css/main.f0a39fdf.chunk.css.map",
     "static/js/2.acaa7450.chunk.js.LICENSE.txt": "/rahul-goel-website/static/js/2.acaa7450.chunk.js.LICENSE.txt",
     "static/media/Screen1.03db8e7c.png": "/rahul-goel-website/static/media/Screen1.03db8e7c.png",
     "static/media/Screen2.1bbd1c4a.png": "/rahul-goel-website/static/media/Screen2.1bbd1c4a.png",
@@ -29,7 +29,7 @@
   "entrypoints": [
     "static/js/runtime-main.8be47df5.js",
     "static/js/2.acaa7450.chunk.js",
-    "static/css/main.b085301c.chunk.css",
+    "static/css/main.f0a39fdf.chunk.css",
     "static/js/main.b8b5aa18.chunk.js"
   ]
 }
