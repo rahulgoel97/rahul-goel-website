@@ -151,6 +151,10 @@ box-shadow: rgba(99, 99, 99, 0.5) 0px 2px 8px 0px;
 
 }
 
+.project-summary{
+    color: #EEE
+}
+
 /* Desktop View for Project Cards*/
 @media (min-width: 1400px) {
     
@@ -158,16 +162,22 @@ box-shadow: rgba(99, 99, 99, 0.5) 0px 2px 8px 0px;
    .project-card-grid{
     display:flex;
     flex-wrap: wrap;
-    flex: 1;
+    flex: row;
+    transform: translate(28vw, 0%);
 }
    .project-card{
         background-color: white;
         border-radius: 10px;
         width: 50vmin;
         height: 15vh;
-        margin: 2rem 2rem 2rem 2rem;
         position: relative;
+        margin-left: 100px;
+
     }
 
-
+    .project-summary{
+       font-size: 5vh;
+       color: #BBB;
+       transform: translate(0%, 30%);
+        }
 }
