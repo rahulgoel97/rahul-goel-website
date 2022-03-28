@@ -97,7 +97,7 @@ function Projects() {
                                               }}
                                         /></a>
             <div className="project-summary">
-                    ScrapeSquirrel, a simple & intuitive to save web-scraped data as SQL.
+                    ScrapeSquirrel, a simple & intuitive library to save web-scraped data as SQL.
             </div>
         </div>              
 
