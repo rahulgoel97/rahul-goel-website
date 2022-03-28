@@ -8,6 +8,8 @@ import ProjectCard from './components/ProjectCard.js';
 import { Link } from 'react-router-dom';
 import icon from './components/icon.png';
 import gv from './components/gv.png';
+import trackidlogo from './components/tid.png';
+import palettelogo from './components/palette.png'
 
 function Projects() {
 
@@ -45,6 +47,36 @@ function Projects() {
                                         /></a>
             <div className="project-summary">
                     Gamestonk Valuation, a DCF app to value gamestop shares
+            </div>
+        </div>
+
+        <div className="project-card-grid">
+            <a href= "https://www.tinyurl.com/track-id">
+                                    <img
+                                        src={trackidlogo}
+                                        style={{width: '20vmin',
+                                        		
+                                                borderRadius: '10px',
+                                                margin: '1rem'
+                                              }}
+                                        /></a>
+            <div className="project-summary">
+                    trackid, a music discovery platform for dance music DJs and fans
+            </div>
+        </div>
+
+        <div className="project-card-grid">
+            <a href= "https://rahulgoel97.github.io/palette/">
+                                    <img
+                                        src={palettelogo}
+                                        style={{width: '20vmin',
+                                        		
+                                                borderRadius: '10px',
+                                                margin: '1rem'
+                                              }}
+                                        /></a>
+            <div className="project-summary">
+                    Palette, an app to help me design systems for future projects
             </div>
         </div>
               

@@ -163,7 +163,9 @@ box-shadow: rgba(99, 99, 99, 0.5) 0px 2px 8px 0px;
     display:flex;
     flex-wrap: wrap;
     flex: row;
-    transform: translate(28vw, 0%);
+    transform: translate(10vw, 0%);
+    margin: 5vmin 1vmin;
+    width: 80%;
 }
    .project-card{
         background-color: white;
@@ -173,6 +175,7 @@ box-shadow: rgba(99, 99, 99, 0.5) 0px 2px 8px 0px;
         position: relative;
         margin-left: 100px;
 
+
     }
 
     .project-summary{
@@ -180,4 +183,16 @@ box-shadow: rgba(99, 99, 99, 0.5) 0px 2px 8px 0px;
        color: #BBB;
        transform: translate(0%, 35%);
         }
+}
+
+
+/* MOBILE View for Project Cards*/
+@media (max-width: 1400px) {
+    
+
+   .project-card-grid{
+    transform: translate(10vw, 0%);
+    margin: 5.5vmin 1vmin;
+    width: 80%;
+}
 }
