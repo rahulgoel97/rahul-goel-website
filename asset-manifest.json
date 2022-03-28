@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/rahul-goel-website/static/css/main.4c7ce15c.chunk.css",
-    "main.js": "/rahul-goel-website/static/js/main.2c148971.chunk.js",
-    "main.js.map": "/rahul-goel-website/static/js/main.2c148971.chunk.js.map",
+    "main.js": "/rahul-goel-website/static/js/main.40103615.chunk.js",
+    "main.js.map": "/rahul-goel-website/static/js/main.40103615.chunk.js.map",
     "runtime-main.js": "/rahul-goel-website/static/js/runtime-main.8be47df5.js",
     "runtime-main.js.map": "/rahul-goel-website/static/js/runtime-main.8be47df5.js.map",
     "static/js/2.acaa7450.chunk.js": "/rahul-goel-website/static/js/2.acaa7450.chunk.js",
@@ -33,6 +33,6 @@
     "static/js/runtime-main.8be47df5.js",
     "static/js/2.acaa7450.chunk.js",
     "static/css/main.4c7ce15c.chunk.css",
-    "static/js/main.2c148971.chunk.js"
+    "static/js/main.40103615.chunk.js"
   ]
 }
