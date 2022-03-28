@@ -9,7 +9,8 @@ import { Link } from 'react-router-dom';
 import icon from './components/icon.png';
 import gv from './components/gv.png';
 import trackidlogo from './components/tid.png';
-import palettelogo from './components/palette.png'
+import palettelogo from './components/palette.png';
+import scrapesq from './components/scrapesquirrel.png';
 
 function Projects() {
 
@@ -22,6 +23,7 @@ function Projects() {
              Projects 👨🏽‍💻
         </div>  
 
+        <h2> Health & Fitness </h2>
         
         <div className="project-card-grid">
             <Link to="/StressCalc"> <img
@@ -35,6 +37,8 @@ function Projects() {
                     StressCalc, an app for beginner powerlifters
             </div>
         </div>
+
+        <h2> Finance </h2>
 
         <div className="project-card-grid">
             <a href= "https://rahulgoel97.github.io/gamestonk-valuation/">
@@ -50,6 +54,8 @@ function Projects() {
             </div>
         </div>
 
+
+        <h2> Music </h2>
         <div className="project-card-grid">
             <a href= "https://www.tinyurl.com/track-id">
                                     <img
@@ -64,7 +70,7 @@ function Projects() {
                     trackid, a music discovery platform for dance music DJs and fans
             </div>
         </div>
-
+        <h2> Infrastructure </h2>
         <div className="project-card-grid">
             <a href= "https://rahulgoel97.github.io/palette/">
                                     <img
@@ -76,10 +82,24 @@ function Projects() {
                                               }}
                                         /></a>
             <div className="project-summary">
-                    Palette, an app to help me design systems for future projects
+                    Palette, an app to help me iterate design systems for future projects
             </div>
         </div>
-              
+
+        <div className="project-card-grid">
+            <a href= "https://github.com/rahulgoel97/ScrapeSquirrel">
+                                    <img
+                                        src={scrapesq}
+                                        style={{width: '25vmin',
+                                        		
+                                                borderRadius: '10px',
+                                                margin: '1rem'
+                                              }}
+                                        /></a>
+            <div className="project-summary">
+                    ScrapeSquirrel, a simple & intuitive to save web-scraped data as SQL.
+            </div>
+        </div>              
 
         <Socials />
 
