@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.css": "/rahul-goel-website/static/css/main.f0a39fdf.chunk.css",
-    "main.js": "/rahul-goel-website/static/js/main.b8b5aa18.chunk.js",
-    "main.js.map": "/rahul-goel-website/static/js/main.b8b5aa18.chunk.js.map",
+    "main.css": "/rahul-goel-website/static/css/main.121bed75.chunk.css",
+    "main.js": "/rahul-goel-website/static/js/main.0f8ceee4.chunk.js",
+    "main.js.map": "/rahul-goel-website/static/js/main.0f8ceee4.chunk.js.map",
     "runtime-main.js": "/rahul-goel-website/static/js/runtime-main.8be47df5.js",
     "runtime-main.js.map": "/rahul-goel-website/static/js/runtime-main.8be47df5.js.map",
     "static/js/2.acaa7450.chunk.js": "/rahul-goel-website/static/js/2.acaa7450.chunk.js",
@@ -10,7 +10,7 @@
     "static/js/3.9d891527.chunk.js": "/rahul-goel-website/static/js/3.9d891527.chunk.js",
     "static/js/3.9d891527.chunk.js.map": "/rahul-goel-website/static/js/3.9d891527.chunk.js.map",
     "index.html": "/rahul-goel-website/index.html",
-    "static/css/main.f0a39fdf.chunk.css.map": "/rahul-goel-website/static/css/main.f0a39fdf.chunk.css.map",
+    "static/css/main.121bed75.chunk.css.map": "/rahul-goel-website/static/css/main.121bed75.chunk.css.map",
     "static/js/2.acaa7450.chunk.js.LICENSE.txt": "/rahul-goel-website/static/js/2.acaa7450.chunk.js.LICENSE.txt",
     "static/media/Screen1.03db8e7c.png": "/rahul-goel-website/static/media/Screen1.03db8e7c.png",
     "static/media/Screen2.1bbd1c4a.png": "/rahul-goel-website/static/media/Screen2.1bbd1c4a.png",
@@ -24,12 +24,14 @@
     "static/media/goellabs.4305f3be.gif": "/rahul-goel-website/static/media/goellabs.4305f3be.gif",
     "static/media/google-app-store.f902960a.png": "/rahul-goel-website/static/media/google-app-store.f902960a.png",
     "static/media/linkedin-icon.7d10869b.png": "/rahul-goel-website/static/media/linkedin-icon.7d10869b.png",
-    "static/media/logo.6ce24c58.svg": "/rahul-goel-website/static/media/logo.6ce24c58.svg"
+    "static/media/logo.6ce24c58.svg": "/rahul-goel-website/static/media/logo.6ce24c58.svg",
+    "static/media/palette.cfa9c2b6.png": "/rahul-goel-website/static/media/palette.cfa9c2b6.png",
+    "static/media/tid.4e87fe1c.png": "/rahul-goel-website/static/media/tid.4e87fe1c.png"
   },
   "entrypoints": [
     "static/js/runtime-main.8be47df5.js",
     "static/js/2.acaa7450.chunk.js",
-    "static/css/main.f0a39fdf.chunk.css",
-    "static/js/main.b8b5aa18.chunk.js"
+    "static/css/main.121bed75.chunk.css",
+    "static/js/main.0f8ceee4.chunk.js"
   ]
 }
