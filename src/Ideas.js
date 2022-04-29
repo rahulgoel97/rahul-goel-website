@@ -50,10 +50,11 @@ console.log(quote)
         </p>
 
         <div className="page-title"> 
-             Conformism, Counter-intuitive, Contrarian 
+             Not obvious
         </div> 
         <p className="main-page-sub-p  "> 
         <a href="http://www.paulgraham.com/conformism.html"> 1. The Four Quadrants of Comformism (Graham) </a>
+        <br/>
           <a href="https://www.youtube.com/watch?v=ii1jcLg-eIQ"> 2. Before The Startup (Graham) </a>
         </p>
       <Socials />
