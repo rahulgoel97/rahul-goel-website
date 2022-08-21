@@ -34,11 +34,11 @@ function Ideas() {
                     takeaway: "Don't commoditize yourself."},
 
                   {quote:
-                    "A 15% return with 10% volatility (or uncertainty) per annum translates into a 93% probability of success in any given year. But seen at a narrow time scale, this translates into a mere 50.02% probability of success over anny givenn second",
+                    "A 15% return with 10% volatility (or uncertainty) per annum translates into a 93% probability of success in any given year. But seen at a narrow time scale, this translates into a mere 50.02% probability of success over any given second",
                   author: 
                     "Nassim Taleb, Fooled By Randomness",
                   takeaway: 
-                    "Those checking stock prices every day, or expecting fast results are charlatans, foolish, or both. QED!"},
+                    "Those checking stock prices every day, or expecting fast results are charlatans (Liars or asymetric incentives), foolish (Noise = signal), or both. QED!"},
     ]
   }
 
