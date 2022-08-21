@@ -32,8 +32,17 @@ a:hover{
 .main-page-p {
   font-size: 3.5vh;
   color: white;
+}
 
+.selfie{
+	max-width:10%;
+	height:90%;
+	clip-path: circle();
+	border-radius: 999px;
+}
 
+.home-intro-box{
+	transform: translate(0%, -25%);
 }
 
 h2{
