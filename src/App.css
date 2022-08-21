@@ -35,7 +35,7 @@ a:hover{
 }
 
 .selfie{
-	max-width:10%;
+	max-width:20vh;
 	height:90%;
 	clip-path: circle();
 	border-radius: 999px;
