@@ -21,11 +21,23 @@
   align-items: center;
 }
 
+a{
+	color: #D7CAF5;
+}
+
+a:hover{
+	color: white;
+}
+
 .main-page-p {
   font-size: 3.5vh;
   color: white;
 
 
+}
+
+h2{
+	color: #D7CAF5;
 }
 
 .notfound{
@@ -42,7 +54,7 @@
 .main-page-sub-p{
 
   font-size: 2.7vh;
-  color: #797979;
+  color: #D7CAF5;
   margin: 2rem 2rem;
 
 }
@@ -63,7 +75,7 @@
 .greeting-text{
   margin: 4vmin 3vmin;
   font-size: 10vh;
-  color: #383838;
+  color: #8157E6;
 }
 
 .social-box{
@@ -84,7 +96,7 @@
 .page-title{
    margin: 4vmin 3vmin;
   font-size: 10vh;
-  color: #383838;
+  color: #8157E6;
 }
 
 .page-title-stresscalc{
@@ -147,7 +159,7 @@ box-shadow: rgba(99, 99, 99, 0.5) 0px 2px 8px 0px;
 .music-subhead{
   margin: 4vmin 3vmin;
   font-size: 6vh;
-  color: #383838;
+  color: #D7CAF5;
 
 }
 

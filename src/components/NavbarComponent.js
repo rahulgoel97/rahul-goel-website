@@ -25,9 +25,8 @@ function NavbarComponent() {
     <Nav className="me-auto">
       <Nav.Link href="#music">Music 🎵</Nav.Link>
       <Nav.Link href="#projects">Software 👨🏽‍💻</Nav.Link>
-      <Nav.Link href='#pics'>Metaverse 👀</Nav.Link>
-      <Nav.Link href="https://mirror.xyz/0x1426FAF5B6F335313ddEce3D5d4aAdD39525e44d/wzsIaOk8uOe6CFIAxthNCt9q43H_mbXJ9MsSaigIhcQ">Blog 💭</Nav.Link>
-      <Nav.Link href='#ideas'>Idea Hunt 😲</Nav.Link>
+      <Nav.Link href='#ideas'>Ideas 🤯 </Nav.Link>
+      <Nav.Link href="https://mirror.xyz/0x1426FAF5B6F335313ddEce3D5d4aAdD39525e44d/wzsIaOk8uOe6CFIAxthNCt9q43H_mbXJ9MsSaigIhcQ"> Charter 💭</Nav.Link>
     </Nav>
   </Navbar.Collapse>
 
