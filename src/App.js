@@ -11,6 +11,11 @@ import  Projects from "./Projects";
 import  Pics from "./Metaverse";
 import  Ideas from "./Ideas";
 import StressCalc from "./StressCalc";
+import ReactGA from 'react-ga';
+
+
+const TRACKING_ID = "G-05GMWBXW30"; 
+ReactGA.initialize(TRACKING_ID);
 
 function App() {
 
