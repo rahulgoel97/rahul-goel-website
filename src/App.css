@@ -33,10 +33,20 @@ a:hover{
 
 }
 
+@media only screen and (min-width:961px){
 .selfie{
-	max-width:45vw;
-	clip-path: circle();
+  max-width:20vh;
+  clip-path: circle();
 }
+}
+
+@media only screen and (max-width:961px){
+.selfie{
+  max-width:45vw;
+  clip-path: circle();
+}
+}
+
 
 .home-intro-box{
 	transform: translate(0%, 0%);

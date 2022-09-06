@@ -73,7 +73,7 @@ console.log(quote)
         </p>
 
         <div className="page-title"> 
-             Not obvious
+             Stuff That Is Not obvious
         </div> 
         <p className="main-page-sub-p  "> 
         <a href="http://www.paulgraham.com/conformism.html"> 1. The Four Quadrants of Comformism (Graham) </a>
