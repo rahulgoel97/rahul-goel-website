@@ -34,10 +34,8 @@ a:hover{
 }
 
 .selfie{
-	max-width:20vh;
-	height:90%;
+	max-width:45vw;
 	clip-path: circle();
-	border-radius: 999px;
 }
 
 .home-intro-box{
