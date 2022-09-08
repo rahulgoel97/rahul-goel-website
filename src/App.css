@@ -65,12 +65,12 @@ a:hover{
   display:flex;
   flex-direction:row;
   flex-wrap:wrap;
-  transform: translate(3%);
+  transform: translate(15vw);
 }
 
 .book-cover{
-  width: 20vh;
-  height: 30vh;
+  width: 30vh;
+  height: 50vh;
   margin: 5px 5px;
   border-radius: 5px;
 }
