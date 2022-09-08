@@ -10,6 +10,7 @@ import  Music from "./Music";
 import  Projects from "./Projects";
 import  Pics from "./Metaverse";
 import  Ideas from "./Ideas";
+import  Books from "./Books";
 import StressCalc from "./StressCalc";
 import ReactGA from 'react-ga';
 
@@ -31,8 +32,10 @@ function App() {
             <Route path="/music" exact component={Music}/>
             <Route path="/projects" exact component={Projects}/>
             <Route path="/pics" exact component={Pics}/>
+            <Route path="/books" exact component={Books}/>
             <Route path="/stresscalc" exact component={StressCalc}/>
-            <Route path="/" render={()=>  <div className="notfound"> Yikes... 404 </div>}/>
+            <Route path="/" render={()=>  <div className="notfound"> Yikes... 404 <br/><br/>
+                <a href="/">🏠</a> </div>}/>
        </Switch>
         </HashRouter>
 

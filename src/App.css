@@ -38,6 +38,21 @@ a:hover{
   max-width:20vh;
   clip-path: circle();
 }
+
+.book-card-grid{
+  display:flex;
+  flex-direction:row;
+  flex-wrap:wrap;
+  transform: translate(10%);
+}
+
+.book-cover{
+  width: 40vh;
+  height: 60vh;
+  margin: 5px 5px;
+  border-radius: 5px;
+}
+
 }
 
 @media only screen and (max-width:961px){
@@ -45,7 +60,26 @@ a:hover{
   max-width:45vw;
   clip-path: circle();
 }
+
+.book-card-grid{
+  display:flex;
+  flex-direction:row;
+  flex-wrap:wrap;
+  transform: translate(3%);
 }
+
+.book-cover{
+  width: 20vh;
+  height: 30vh;
+  margin: 5px 5px;
+  border-radius: 5px;
+}
+
+
+}
+
+
+
 
 
 .home-intro-box{
