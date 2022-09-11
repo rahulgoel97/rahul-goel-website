@@ -53,7 +53,7 @@ function Socials() {
       		/>
       </a>
 
-      <a href="mailto:rahulgol97@gmail.com">
+      <a href="mailto:mail@rahulg.xyz">
       		<img 
       		src={iconemail}
       		style={{width:'1.8rem',margin:'0.7rem'}}

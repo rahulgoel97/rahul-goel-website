@@ -24,7 +24,7 @@ function Blog1() {
                     <div className="blog-page-sub-p">September 11, 2022</div>
 
                     <div className="blog-title"> Blogging principles </div>
-                        <li>Siccinnctness is critical</li>
+                        <li>Siccinctness is critical</li>
                         <li>Never repeat</li>
                         <li>Use the simplest language possible</li>
                         <li>Be highly structured</li>
