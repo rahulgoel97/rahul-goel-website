@@ -90,6 +90,13 @@ h2{
 	color: #D7CAF5;
 }
 
+.blog-title{
+  color: #D7CAF5;
+  font-size: 3rem;
+  text-align: left;
+
+}
+
 .notfound{
   color:white;
   font-size: 8rem;
@@ -102,12 +109,31 @@ h2{
 }
 
 .main-page-sub-p{
-
   font-size: 2.7vh;
   color: #D7CAF5;
   margin: 20px 20px;
- 
+}
 
+.blog-page-sub-p{
+  font-size: 2.7vh;
+  color: #D7CAF5;
+  margin: 20px 20px;
+  text-align: left;
+
+}
+
+.blog-box{
+  position: absolute;
+  left: 25%;
+
+}
+
+li{
+  font-size: 2.7vh;
+  color: #D7CAF5;
+  margin: 20px 20px;
+  text-align: left;
+ 
 }
 
 .main-page-p-box{
@@ -152,6 +178,34 @@ h2{
    margin: 4vmin 3vmin;
   font-size: 6vh;
   color: #8157E6;
+}
+
+.blog-title{
+   margin: 4vmin 3vmin;
+  font-size: 6vh;
+  color: #8157E6;
+}
+
+
+
+.blog-last{
+  margin-bottom: 200px;
+}
+
+.blog-themes-box{
+  display:flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.blog-themes{
+  background-color: #8157E6;
+  font-size: 1rem;
+  border-radius: 20px;
+  margin: 5px 5px;
+  color: white;
+  padding: 5px 10px;
+
 }
 
 .page-title-stresscalc{

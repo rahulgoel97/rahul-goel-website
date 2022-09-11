@@ -23,6 +23,7 @@ function NavbarComponent() {
                     <Navbar.Toggle aria-controls="responsive-navbar-nav" />
                         <Navbar.Collapse id="responsive-navbar-nav">
     <Nav className="me-auto">
+    <Nav.Link href='#blog'> Blog 📝 </Nav.Link>
       <Nav.Link href="#music">Music 🎵</Nav.Link>
       <Nav.Link href="#projects">Software 👨🏽‍💻</Nav.Link>
       <Nav.Link href='#ideas'>Ideas 🤯 </Nav.Link>
