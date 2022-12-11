@@ -21,6 +21,15 @@ function Blog() {
         </div>  
 
         <BlogCard
+            title="Being Analytical - Powerlifting & Corporate Strategy"
+            blurb="Success in powerlifiting and strategy both require extraordinary analytical rigor."
+            date="October 28, 2022"
+            id="#blog2"
+            themes={["Read time: 5min ⌛", "Powerlifting", "Corporate Strategy"]} />
+
+        <hr/>
+
+        <BlogCard
             title="Blogging principles & why blog?"
             blurb="What are the drivers behind starting this blog? Mostly, bored family & friends."
             date="September 11, 2022"

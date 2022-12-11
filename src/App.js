@@ -13,6 +13,7 @@ import  Ideas from "./Ideas";
 import  Books from "./Books";
 import  Blog from "./Blog";
 import Blog1 from './components/Blog1';
+import Blog2 from './components/Blog2';
 import StressCalc from "./StressCalc";
 import ReactGA from 'react-ga';
 
@@ -30,6 +31,7 @@ function App() {
             <Route path="/" exact component={Home} />
             <Route path="/blog" exact component={Blog} />
             <Route path="/blog1" exact component={Blog1} />
+            <Route path="/blog2" exact component={Blog2} />
             <Route path="/home" exact component={Home} />
             <Route path="/ideas" exact component={Ideas} />
             <Route path="/rahul-goel-website" exact component={Home} />
