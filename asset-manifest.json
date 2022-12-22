@@ -1,22 +1,23 @@
 {
   "files": {
-    "main.css": "/rahul-goel-website/static/css/main.a6ab4b9b.chunk.css",
-    "main.js": "/rahul-goel-website/static/js/main.84e6d4f2.chunk.js",
-    "main.js.map": "/rahul-goel-website/static/js/main.84e6d4f2.chunk.js.map",
-    "runtime-main.js": "/rahul-goel-website/static/js/runtime-main.7da1a6c1.js",
-    "runtime-main.js.map": "/rahul-goel-website/static/js/runtime-main.7da1a6c1.js.map",
-    "static/js/2.d9bd01a2.chunk.js": "/rahul-goel-website/static/js/2.d9bd01a2.chunk.js",
-    "static/js/2.d9bd01a2.chunk.js.map": "/rahul-goel-website/static/js/2.d9bd01a2.chunk.js.map",
-    "static/js/3.fc43a559.chunk.js": "/rahul-goel-website/static/js/3.fc43a559.chunk.js",
-    "static/js/3.fc43a559.chunk.js.map": "/rahul-goel-website/static/js/3.fc43a559.chunk.js.map",
+    "main.css": "/rahul-goel-website/static/css/main.307fec5f.chunk.css",
+    "main.js": "/rahul-goel-website/static/js/main.5cca6c47.chunk.js",
+    "main.js.map": "/rahul-goel-website/static/js/main.5cca6c47.chunk.js.map",
+    "runtime-main.js": "/rahul-goel-website/static/js/runtime-main.f339a2f9.js",
+    "runtime-main.js.map": "/rahul-goel-website/static/js/runtime-main.f339a2f9.js.map",
+    "static/js/2.da57096d.chunk.js": "/rahul-goel-website/static/js/2.da57096d.chunk.js",
+    "static/js/2.da57096d.chunk.js.map": "/rahul-goel-website/static/js/2.da57096d.chunk.js.map",
+    "static/js/3.e04ec6f5.chunk.js": "/rahul-goel-website/static/js/3.e04ec6f5.chunk.js",
+    "static/js/3.e04ec6f5.chunk.js.map": "/rahul-goel-website/static/js/3.e04ec6f5.chunk.js.map",
     "index.html": "/rahul-goel-website/index.html",
-    "static/css/main.a6ab4b9b.chunk.css.map": "/rahul-goel-website/static/css/main.a6ab4b9b.chunk.css.map",
-    "static/js/2.d9bd01a2.chunk.js.LICENSE.txt": "/rahul-goel-website/static/js/2.d9bd01a2.chunk.js.LICENSE.txt",
+    "static/css/main.307fec5f.chunk.css.map": "/rahul-goel-website/static/css/main.307fec5f.chunk.css.map",
+    "static/js/2.da57096d.chunk.js.LICENSE.txt": "/rahul-goel-website/static/js/2.da57096d.chunk.js.LICENSE.txt",
     "static/media/Screen1.03db8e7c.png": "/rahul-goel-website/static/media/Screen1.03db8e7c.png",
     "static/media/Screen2.1bbd1c4a.png": "/rahul-goel-website/static/media/Screen2.1bbd1c4a.png",
     "static/media/Screen3.a957bc63.jpg": "/rahul-goel-website/static/media/Screen3.a957bc63.jpg",
     "static/media/Screen4.aebe7adf.png": "/rahul-goel-website/static/media/Screen4.aebe7adf.png",
     "static/media/Screen5.400e81ea.jpg": "/rahul-goel-website/static/media/Screen5.400e81ea.jpg",
+    "static/media/Selfie3.13ebeca0.PNG": "/rahul-goel-website/static/media/Selfie3.13ebeca0.PNG",
     "static/media/apple-app-store.019e9746.jpeg": "/rahul-goel-website/static/media/apple-app-store.019e9746.jpeg",
     "static/media/bandcamp-icon.d51da92f.png": "/rahul-goel-website/static/media/bandcamp-icon.d51da92f.png",
     "static/media/email-icon.c93fbf4e.png": "/rahul-goel-website/static/media/email-icon.c93fbf4e.png",
@@ -30,14 +31,13 @@
     "static/media/paulg.f4aa8606.jpeg": "/rahul-goel-website/static/media/paulg.f4aa8606.jpeg",
     "static/media/petert.bdf95760.jpeg": "/rahul-goel-website/static/media/petert.bdf95760.jpeg",
     "static/media/scrapesquirrel.de447892.png": "/rahul-goel-website/static/media/scrapesquirrel.de447892.png",
-    "static/media/selfie.bbd90245.jpg": "/rahul-goel-website/static/media/selfie.bbd90245.jpg",
     "static/media/taleb.2757b2ee.jpeg": "/rahul-goel-website/static/media/taleb.2757b2ee.jpeg",
     "static/media/tid.4e87fe1c.png": "/rahul-goel-website/static/media/tid.4e87fe1c.png"
   },
   "entrypoints": [
-    "static/js/runtime-main.7da1a6c1.js",
-    "static/js/2.d9bd01a2.chunk.js",
-    "static/css/main.a6ab4b9b.chunk.css",
-    "static/js/main.84e6d4f2.chunk.js"
+    "static/js/runtime-main.f339a2f9.js",
+    "static/js/2.da57096d.chunk.js",
+    "static/css/main.307fec5f.chunk.css",
+    "static/js/main.5cca6c47.chunk.js"
   ]
 }
