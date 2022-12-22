@@ -35,8 +35,14 @@ a:hover{
 
 @media only screen and (min-width:961px){
 .selfie{
-  max-width:20vh;
+  margin-top: 50px;
+  max-width:28vh;
   clip-path: circle();
+}
+
+.flag{
+  max-width:5vh;
+ 
 }
 
 .book-card-grid{
@@ -57,9 +63,16 @@ a:hover{
 
 @media only screen and (max-width:961px){
 .selfie{
-  max-width:45vw;
+  margin-top: 50px;
+  max-width:40vw;
   clip-path: circle();
 }
+
+.flag{
+  max-width:5vh;
+ 
+}
+
 
 .book-card-grid{
   display:flex;

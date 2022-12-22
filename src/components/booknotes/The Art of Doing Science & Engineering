@@ -27,4 +27,17 @@ Chapter 3 - History of computers - hardware
 
 
 Chapter 4 - History of computers - software
-- Reading in progress...
+- FORTRAN = FORmula TRANslation
+- FORTRAN "was opposed by almost all programmers. First, it was said it could not be done. Second, if it could be done, it would be too wasteful of machine time and capacity". 
+
+!!! The abovepassage is enormously exciting. Yet another example on how the best ideas are always counterintuitive and opposed to the zeitgeist, almost as a neccessary condition...
+
+- Almost all profressionals are slow to use their own expertise for their own work. Why?
+
+!!! Hamming urges us to avoid this when we are great professionals. For my current field - corporate strategy - it may imply carving out dedicated time to think of our own team's strategy...
+
+
+- Algol was an attempt at improving FORTRAN, in 58-60. 
+- LISP began in 62. Used a "simple trick" of self-compiling.
+- Please remember, the inventor has a "very limited view" of the invention.
+- A good diagram of how CAR and 3 addresses and an operation can be used to "devise any langauge you want".
