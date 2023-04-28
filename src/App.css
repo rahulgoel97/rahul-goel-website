@@ -1,6 +1,6 @@
 .App {
   text-align: center;
-  background-color: #121212;
+  background-color: #111111;
 }
 .StressCalcAppPage{
   text-align: center;
@@ -10,7 +10,7 @@
 }
 
 .home-contents{
-  background-color:#121212;
+  background-color:#111111;
   bottom: 50%;
 }
 
@@ -36,8 +36,9 @@ a:hover{
 @media only screen and (min-width:961px){
 .selfie{
   margin-top: 50px;
-  max-width:28vh;
+  max-width:20vh;
   clip-path: circle();
+  filter: grayscale(100%);
 }
 
 .flag{
@@ -49,7 +50,7 @@ a:hover{
   display:flex;
   flex-direction:row;
   flex-wrap:wrap;
-  transform: translate(10%);
+  margin-left: 15vw;
 }
 
 .book-cover{
@@ -64,8 +65,9 @@ a:hover{
 @media only screen and (max-width:961px){
 .selfie{
   margin-top: 50px;
-  max-width:40vw;
+  max-width:20vw;
   clip-path: circle();
+  filter: grayscale(100%);
 }
 
 .flag{
@@ -122,9 +124,23 @@ h2{
 }
 
 .main-page-sub-p{
-  font-size: 2.7vh;
-  color: #D7CAF5;
-  margin: 20px 20px;
+  font-size: 2.5vh;
+  color: white;
+  font-family: Arial;
+  margin-top: 30px;
+  text-align: justify;
+  margin-left: 25vw;
+  margin-right: 25vw;
+}
+
+.main-page-sub-contact{
+  font-size: 2.3vh;
+  color: white;
+  font-family: Arial;
+  margin-top: 30px;
+  text-align: middle;
+  margin-left: 25vw;
+  margin-right: 25vw;
 }
 
 .blog-page-sub-p{
@@ -168,8 +184,10 @@ li{
 
 .greeting-text{
   margin: 20px 30px;
+  font-family: Georgia;
   font-size: 10vh;
-  color: #8157E6;
+  font-weight: bold;
+  color: white;
 }
 
 .social-box{
@@ -182,9 +200,10 @@ li{
 }
 
 .navbar-style{
-    background-color: #181818 !important;
+    background-color: #111111 !important;
     width: 100%;
-    margin-top: 0px;   
+    margin-top: 0px; 
+    font-family: Georgia;
 }
 
 .page-title{

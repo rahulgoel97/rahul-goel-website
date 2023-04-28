@@ -41,10 +41,7 @@ function Books() {
                  link={petert}
                  buy={"https://www.amazon.com/s?k=zero+to+one&i=stripbooks&crid=Q0JALFK8ZMBC&sprefix=zero+%2Cstripbooks%2C149&ref=nb_sb_ss_ts-doa-p_1_5"}/>
 
-              <BookCard
-                 link={hoffman}
-                 buy={"https://www.amazon.com/Blitzscaling-Lightning-Fast-Building-Massively-Companies/dp/1524761419/ref=sr_1_1?crid=1FF3TZ8PS1JIN&keywords=blitzscaling&qid=1662612866&s=books&sprefix=BLIT%2Cstripbooks%2C115&sr=1-1"}/>
-
+              
           </div>
 
         
