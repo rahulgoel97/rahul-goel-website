@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/rahul-goel-website/static/css/main.65d6c2cf.chunk.css",
-    "main.js": "/rahul-goel-website/static/js/main.259fce69.chunk.js",
-    "main.js.map": "/rahul-goel-website/static/js/main.259fce69.chunk.js.map",
+    "main.js": "/rahul-goel-website/static/js/main.414c6734.chunk.js",
+    "main.js.map": "/rahul-goel-website/static/js/main.414c6734.chunk.js.map",
     "runtime-main.js": "/rahul-goel-website/static/js/runtime-main.7da1a6c1.js",
     "runtime-main.js.map": "/rahul-goel-website/static/js/runtime-main.7da1a6c1.js.map",
     "static/js/2.886304f2.chunk.js": "/rahul-goel-website/static/js/2.886304f2.chunk.js",
@@ -17,7 +17,7 @@
     "static/media/Screen3.a957bc63.jpg": "/rahul-goel-website/static/media/Screen3.a957bc63.jpg",
     "static/media/Screen4.aebe7adf.png": "/rahul-goel-website/static/media/Screen4.aebe7adf.png",
     "static/media/Screen5.400e81ea.jpg": "/rahul-goel-website/static/media/Screen5.400e81ea.jpg",
-    "static/media/Selfie4.e5d10b43.jpg": "/rahul-goel-website/static/media/Selfie4.e5d10b43.jpg",
+    "static/media/Selfie4.63a7558e.jpg": "/rahul-goel-website/static/media/Selfie4.63a7558e.jpg",
     "static/media/apple-app-store.019e9746.jpeg": "/rahul-goel-website/static/media/apple-app-store.019e9746.jpeg",
     "static/media/bandcamp-icon.d51da92f.png": "/rahul-goel-website/static/media/bandcamp-icon.d51da92f.png",
     "static/media/email-icon.c93fbf4e.png": "/rahul-goel-website/static/media/email-icon.c93fbf4e.png",
@@ -38,6 +38,6 @@
     "static/js/runtime-main.7da1a6c1.js",
     "static/js/2.886304f2.chunk.js",
     "static/css/main.65d6c2cf.chunk.css",
-    "static/js/main.259fce69.chunk.js"
+    "static/js/main.414c6734.chunk.js"
   ]
 }
