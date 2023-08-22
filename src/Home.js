@@ -28,10 +28,10 @@ function Home() {
             <div className="main-page-p-box">
                 <p className="main-page-sub-contact"> (416) 561 8175 | rahulgol97@gmail.com </p>
                 <p className="main-page-sub-p"> I'm a strategy professional based in Toronto <img src={CanFlag} className="flag"/>, currently working at Motorola Solutions. I grew up in India, studied at Northwestern University and lived in Chicago for 7 years. </p>
-                <p className="main-page-sub-p  ">I often think about how technology can dramatically reduce cost, improve access and forge  a path for self-actualization for everyone - supported by innovative business models and organizations.</p>
+                <p className="main-page-sub-p  ">I often think about how technology can dramatically reduce cost, improve access and forge  a path for self-actualization for everyone </p>
                 <p className="main-page-sub-p  ">Interests: <a href="https://www.youtube.com/shorts/ehkMWH7Jg5o">powerlifting</a>, dance music, cooking</p>
                 <p className="main-page-sub-p  ">Aspiration: become a polymath</p>
-                <p className="main-page-sub-p  ">Building: apps to make my life easier & have some fun</p>
+                <p className="main-page-sub-p  ">Building: apps to learn about technology, make my life easier & have some fun</p>
             </div>
 
         </div>     

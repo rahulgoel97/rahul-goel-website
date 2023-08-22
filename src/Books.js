@@ -9,6 +9,8 @@ import paulg from './components/paulg.jpeg';
 import taleb from './components/taleb.jpeg';
 import petert from './components/petert.jpeg';
 import hoffman from './components/hoffman.jpeg';
+import berlin from './components/berlin.jpg';
+import scienceeng from './components/scienceeng.jpg';
 
 function getRandomInt(max) {
   return Math.floor(Math.random() * max);
@@ -41,6 +43,13 @@ function Books() {
                  link={petert}
                  buy={"https://www.amazon.com/s?k=zero+to+one&i=stripbooks&crid=Q0JALFK8ZMBC&sprefix=zero+%2Cstripbooks%2C149&ref=nb_sb_ss_ts-doa-p_1_5"}/>
 
+              <BookCard
+                 link={berlin}
+                 buy={"https://www.amazon.com/Berlin-David-Clay-Large/dp/046502632X"}/>
+
+              <BookCard
+                 link={scienceeng}
+                 buy={"https://press.stripe.com/the-art-of-doing-science-and-engineering"}/>
               
           </div>
 
