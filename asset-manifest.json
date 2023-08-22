@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/rahul-goel-website/static/css/main.87768de2.chunk.css",
-    "main.js": "/rahul-goel-website/static/js/main.e18c567d.chunk.js",
-    "main.js.map": "/rahul-goel-website/static/js/main.e18c567d.chunk.js.map",
+    "main.js": "/rahul-goel-website/static/js/main.26db77ef.chunk.js",
+    "main.js.map": "/rahul-goel-website/static/js/main.26db77ef.chunk.js.map",
     "runtime-main.js": "/rahul-goel-website/static/js/runtime-main.f339a2f9.js",
     "runtime-main.js.map": "/rahul-goel-website/static/js/runtime-main.f339a2f9.js.map",
     "static/js/2.da57096d.chunk.js": "/rahul-goel-website/static/js/2.da57096d.chunk.js",
@@ -20,6 +20,7 @@
     "static/media/Selfie4.63a7558e.jpg": "/rahul-goel-website/static/media/Selfie4.63a7558e.jpg",
     "static/media/apple-app-store.019e9746.jpeg": "/rahul-goel-website/static/media/apple-app-store.019e9746.jpeg",
     "static/media/bandcamp-icon.d51da92f.png": "/rahul-goel-website/static/media/bandcamp-icon.d51da92f.png",
+    "static/media/berlin.19d55485.jpg": "/rahul-goel-website/static/media/berlin.19d55485.jpg",
     "static/media/email-icon.c93fbf4e.png": "/rahul-goel-website/static/media/email-icon.c93fbf4e.png",
     "static/media/github-icon.0d00baba.png": "/rahul-goel-website/static/media/github-icon.0d00baba.png",
     "static/media/goellabs.4305f3be.gif": "/rahul-goel-website/static/media/goellabs.4305f3be.gif",
@@ -30,6 +31,7 @@
     "static/media/palette.cfa9c2b6.png": "/rahul-goel-website/static/media/palette.cfa9c2b6.png",
     "static/media/paulg.f4aa8606.jpeg": "/rahul-goel-website/static/media/paulg.f4aa8606.jpeg",
     "static/media/petert.bdf95760.jpeg": "/rahul-goel-website/static/media/petert.bdf95760.jpeg",
+    "static/media/scienceeng.af9b7c65.jpg": "/rahul-goel-website/static/media/scienceeng.af9b7c65.jpg",
     "static/media/scrapesquirrel.de447892.png": "/rahul-goel-website/static/media/scrapesquirrel.de447892.png",
     "static/media/taleb.2757b2ee.jpeg": "/rahul-goel-website/static/media/taleb.2757b2ee.jpeg",
     "static/media/tid.4e87fe1c.png": "/rahul-goel-website/static/media/tid.4e87fe1c.png"
@@ -38,6 +40,6 @@
     "static/js/runtime-main.f339a2f9.js",
     "static/js/2.da57096d.chunk.js",
     "static/css/main.87768de2.chunk.css",
-    "static/js/main.e18c567d.chunk.js"
+    "static/js/main.26db77ef.chunk.js"
   ]
 }
