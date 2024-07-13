@@ -4,7 +4,7 @@ import './App.css';
 import SocialMediaButtons from 'react-social-media-buttons';
 import Socials from './components/Socials.js'
 import NavbarComponent from './components/NavbarComponent.js';
-import Selfie from './components/Selfie4.jpg';
+import Selfie from './components/Selfie5.jpg';
 import CanFlag from './components/can.png';
 
 
@@ -27,9 +27,9 @@ function Home() {
 
             <div className="main-page-p-box">
                 <p className="main-page-sub-contact"> (416) 561 8175 | rahulgol97@gmail.com </p>
-                <p className="main-page-sub-p"> I'm a strategy professional based in Toronto <img src={CanFlag} className="flag"/>, currently working at Motorola Solutions. I grew up in India, studied at Northwestern University and lived in Chicago for 7 years. </p>
-                <p className="main-page-sub-p  ">I often think about how technology can dramatically reduce cost, improve access and forge  a path for self-actualization for everyone </p>
-                <p className="main-page-sub-p  ">Interests: <a href="https://www.youtube.com/shorts/ehkMWH7Jg5o">powerlifting</a>, dance music, cooking</p>
+                <p className="main-page-sub-p"> I'm a strategy professional based in Chicago, currently at Motorola Solutions. I focus on research & quantiative analysis for strategic projects and tech M&A. </p>
+                <p className="main-page-sub-p  "> I grew up in New Delhi & Mumbai, studied engineering at Northwestern University and have lived in Chicago since 2015. I often think about how technology can dramatically reduce cost, improve access and forge a path for self-actualization for everyone.  </p>
+                <p className="main-page-sub-p  ">Interests: <a href="https://www.instagram.com/p/C2Tird-rOqa/">powerlifting</a>, <a href="https://bandcamp.com/rahulgoel">dance music </a>, cooking</p>
                 <p className="main-page-sub-p  ">Aspiration: become a polymath</p>
                 <p className="main-page-sub-p  ">Building: apps to learn about technology, make my life easier & have some fun</p>
             </div>
