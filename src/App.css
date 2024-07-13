@@ -57,15 +57,16 @@ a:hover{
   width: 40vh;
   height: 60vh;
   margin: 5px 5px;
-  border-radius: 5px;
-}
+  border-radius: 5px;}
+
 
 }
+
 
 @media only screen and (max-width:961px){
 .selfie{
   margin-top: 50px;
-  max-width:20vw;
+  max-width:35vw;
   clip-path: circle();
   filter: grayscale(100%);
 }
@@ -89,6 +90,8 @@ a:hover{
   margin: 5px 5px;
   border-radius: 5px;
 }
+
+
 
 
 }
@@ -128,9 +131,9 @@ h2{
   color: white;
   font-family: Arial;
   margin-top: 30px;
-  text-align: justify;
-  margin-left: 25vw;
-  margin-right: 25vw;
+  text-align: center;
+  margin-left: 15vw;
+  margin-right: 15vw;
 }
 
 .main-page-sub-contact{
@@ -185,7 +188,7 @@ li{
 .greeting-text{
   margin: 20px 30px;
   font-family: Georgia;
-  font-size: 10vh;
+  font-size: 8vh;
   font-weight: bold;
   color: white;
 }
