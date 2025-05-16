@@ -16,7 +16,7 @@
     "react-dom": "^17.0.2",
     "react-ga": "^3.3.1",
     "react-router-dom": "^5.3.0",
-    "react-scripts": "^4.0.3",
+    "react-scripts": "^5.0.1",
     "react-social-icons": "^5.6.1",
     "react-social-media-buttons": "^1.0.8"
   },
@@ -47,6 +47,9 @@
     ]
   },
   "devDependencies": {
+    "ajv": "^8.16.0",
+    "ajv-keywords": "^5.1.0",
+    "schema-utils": "^4.2.0",
     "web-vitals": "^2.1.2"
   }
 }
