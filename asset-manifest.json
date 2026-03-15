@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/rahul-goel-website/static/css/main.6e260925.css",
-    "main.js": "/rahul-goel-website/static/js/main.a9eb2854.js",
+    "main.js": "/rahul-goel-website/static/js/main.5258af79.js",
     "static/js/453.b2cac668.chunk.js": "/rahul-goel-website/static/js/453.b2cac668.chunk.js",
     "static/media/goellabs.gif": "/rahul-goel-website/static/media/goellabs.4305f3beafec6317e95b.gif",
     "static/media/Screen1.png": "/rahul-goel-website/static/media/Screen1.03db8e7c2484cf9e24bf.png",
@@ -28,11 +28,11 @@
     "static/media/logo.svg": "/rahul-goel-website/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
     "index.html": "/rahul-goel-website/index.html",
     "main.6e260925.css.map": "/rahul-goel-website/static/css/main.6e260925.css.map",
-    "main.a9eb2854.js.map": "/rahul-goel-website/static/js/main.a9eb2854.js.map",
+    "main.5258af79.js.map": "/rahul-goel-website/static/js/main.5258af79.js.map",
     "453.b2cac668.chunk.js.map": "/rahul-goel-website/static/js/453.b2cac668.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.6e260925.css",
-    "static/js/main.a9eb2854.js"
+    "static/js/main.5258af79.js"
   ]
 }
